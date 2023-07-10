@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-A function task_wait_random that takes an integer
-max_delay and returns a asyncio.Task.
+A function that is used to check if the task is asyncio
 """
 
 
